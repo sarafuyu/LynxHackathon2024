@@ -4,8 +4,6 @@ import numpy as np
 import pandas as pd
 # import cvxpy as cp
 
-
-
 def covariance(price_p_pred, t):
     ''''
     covariance computes ...
