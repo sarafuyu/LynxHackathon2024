@@ -7,8 +7,8 @@ Our goal for this hackathon is to leverage the provided preparatory materials an
 ## Preparation and Approach
 We've gone through the provided PDF document and code examples to ensure we're all on the same page. The preparatory materials have been instrumental in leveling the playing field and bringing our team up to speed on the essentials of systematic trading.
 
-### Run
-To run the code, simply run the file `simulation.py`
+## Run
+To run the code, simply run the file `simulation.py`.
 
 ## Acknowledgments
 A big thank you to the Lynx Hackathon organizers for providing a platform for innovation and learning. We're also grateful for the comprehensive preparatory materials, which have significantly contributed to our understanding and approach.
